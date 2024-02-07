@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Arthur%20Covelo&section=header&reversal=false"/>
 
 ## Bem-vindo ao meu perfil! 👋
 
@@ -75,5 +76,7 @@ Olá, eu sou Arthur Luis, um entusiasta de jogos digitais e desenvolvimento! Com
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=150&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontAlign=70&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&reversal=false"/>
+
+
 
