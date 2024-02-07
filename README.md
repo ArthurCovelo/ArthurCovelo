@@ -75,4 +75,5 @@ Olá, eu sou Arthur Luis, um entusiasta de jogos digitais e desenvolvimento! Com
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c28d4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=150&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontAlign=70&fontAlignY=35"/>
+
