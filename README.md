@@ -6,11 +6,18 @@ Olá, eu sou Arthur Luis, um entusiasta de jogos digitais e desenvolvimento! Com
 
 <!-- GITHUB STATUS -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurCovelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCovelo&layout=compact&langs_count=10&theme=dark"/>
+  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcovelo&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10&hide_border=true"/>
+  <img width="485em" src="https://streak-stats.demolab.com?user=arthurcovelo&theme=radical&hide_border=true" />
+<br />
 </div>
 
 <br>
+
+<h3 align="right">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Full%20Stack%3B%207%20anos%20de%20experi%C3%AAncia%20em%20desenvolvimento%3B%20Sempre%20aprimorando%20em%20novas%20tecnologias%3B%20Eficiente&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=500&size=32">
+</h3>
+
+ <br>
 
 <!-- TECNOLOGIAS -->
 <div align="center">
