@@ -1,13 +1,6 @@
-## Boas vindas ao meu perfil 😀
+## Bem-vindo ao meu perfil! 👋
 
-Olá, eu sou Arthur Luis, um apaixonado por jogos digitais e desenvolvimento! Com uma sólida formação técnica em Informática e graduação em Tecnologia em Jogos Digitais no IFRJ, tenho me dedicado à arte de ser Programador .Net e Unity Developer.
-Utilizando ferramentas como C#, Angular e SQL Server, mergulhei diariamente na criação de soluções inovadoras que proporcionaram uma experiência de usuário excepcional.
-
-Minha habilidade de comunicação e perseverança, apesar da minha deficiência auditiva, permitiram-me integrar-me efetivamente em equipes de projetos, entendendo desafios e contribuindo de maneira positiva.
-
-Estou sempre aberto para networking, colaborações e compartilhamento de experiências.
-
-Vamos crescer juntos!
+Olá, eu sou Arthur Luis, um entusiasta de jogos digitais e desenvolvimento! Com formação técnica em Informática e graduação em Tecnologia em Jogos Digitais no IFRJ, tenho me dedicado à arte de ser Programador .Net e Unity Developer.
 
 <br>
 
@@ -15,8 +8,6 @@ Vamos crescer juntos!
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurCovelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCovelo&layout=compact&langs_count=10&theme=dark"/>
-
-  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 
 <br>
@@ -24,22 +15,46 @@ Vamos crescer juntos!
 <!-- TECNOLOGIAS -->
 <div align="center">
 
-### Tech Stack
+### Backend
 
-#### Backend
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![.NET Framework](https://img.shields.io/badge/.NET%20Framework-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
 
-#### Game Development
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+### Frontend
 
-#### Tools & Others
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23778BFF.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Banco de Dados
+
+#### Relacionais
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### NoSQL
+![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
+
+### Plataformas em Nuvem
+
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Desenvolvimento de Jogos
+
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-%23FFDC00.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
+
+### Controle de Versão
+
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### Metodologia Ágil
+
+![Scrum](https://img.shields.io/badge/Scrum-%2341B883.svg?style=for-the-badge&logo=scrum-alliance&logoColor=white)
 
 </div>
 
@@ -48,4 +63,3 @@ Vamos crescer juntos!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurcovelo/)
 
 </div>
-
