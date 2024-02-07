@@ -73,3 +73,5 @@ Olá, eu sou Arthur Luis, um entusiasta de jogos digitais e desenvolvimento! Com
 [![E-mail](https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurcovelo@gmail.com)
 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c28d4&height=120&section=footer"/>
