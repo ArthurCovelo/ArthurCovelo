@@ -15,7 +15,7 @@ Olá, eu sou Arthur Luis, um entusiasta de jogos digitais e desenvolvimento! Com
 
 <br>
 
-<h3 align="right">
+<h3 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Full%20Stack%3B%207%20anos%20de%20experi%C3%AAncia%20em%20desenvolvimento%3B%20Sempre%20aprimorando%20em%20novas%20tecnologias%3B%20Eficiente%20e%20Robusto&font=Ubuntu&left=true&width=1000&height=70&color=9c28d4&vCenter=true&pause=500&size=32">
 </h3>
 
