@@ -8,8 +8,8 @@ Olá, eu sou Arthur Luis, um entusiasta de jogos digitais e desenvolvimento! Com
 
 <!-- GITHUB STATUS -->
 <div align="center">
-  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcovelo&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10&hide_border=true"/>
-  <img width="450em" src="https://streak-stats.demolab.com?username=arthurcovelo&theme=github-dark&locale=pt_BR&short_numbers=true"/>
+  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcovelo&show_icons=true&theme=radical&layout=compact&locale=pt_BR&langs_count=10&hide_border=true"/>
+  <img width="450em" src="[https://streak-stats.demolab.com?username=arthurcovelo&theme=github-dark&locale=pt_BR&short_numbers=true](https://streak-stats.demolab.com/?user=arthurcovelo&theme=github-dark&locale=pt_BR&short_numbers=true)"/>
 </div>
 
 <br>
