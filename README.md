@@ -10,7 +10,7 @@ Olá, eu sou Arthur Luis, um entusiasta de jogos digitais e desenvolvimento! Com
 <div align="center">
   
   <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcovelo&show_icons=true&theme=radical&layout=compact&locale=pt-br&langs_count=10&hide_border=true"/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=arthurcovelo&theme=github-dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
+  <img  width=100% src="https://streak-stats.demolab.com?user=arthurcovelo&theme=github-dark&hide_border=true&locale=pt_BR"/>
   
 </div>
 
